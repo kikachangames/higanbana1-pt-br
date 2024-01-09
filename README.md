@@ -25,5 +25,4 @@
 
 <br/>
 
-<p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank>
-KikaChan Games</a></p>
+<p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">KikaChan Games</a></p>
