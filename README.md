@@ -22,3 +22,8 @@
 <img src="https://kikachangames.github.io/kikachangames/hg1.png">
 <img src="https://kikachangames.github.io/kikachangames/hg2.png">
 <img src="https://kikachangames.github.io/kikachangames/hg3.png">
+
+<br/>
+
+<p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank>
+KikaChan Games</a></p>
