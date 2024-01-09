@@ -1,9 +1,9 @@
 <h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
-<h2>Patch Pt-Br</h2>
+<h2>Patch Pt-Br (Onscripter)</h2>
 
 <p>Bem-vindo!<p/>
 
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://07th-expansion.net/higan_gen" target="_blank">Higanbana no Saku Yoru ni</a>, da 07th Expansion.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://07th-expansion.net/higan_gen" target="_blank">Higanbana no Saku Yoru ni - A Primeira Noite</a>, da 07th Expansion.</p>
 
 <h3>Progresso da tradução - A Primeira Noite</h3>
 <ul>
