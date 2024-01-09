@@ -13,10 +13,11 @@
     <li>Shrine of the Guardian Deity - 0%</li>
     <li>Hameln's Castanets - 0%</li>
     <li>One Girl's Day - 0%</li>
-    <li></li>Utopia - 0%</li>
+    <li>Utopia - 0%</li>
 </ul>
 
-<h3>Previsão de lançamento: Maio de 2024.</h3>
+<h3>Previsão de lançamento:</h3>
+<p>Maio de 2024.</p>
 
 <img src="https://kikachangames.github.io/kikachangames/hg1.png">
 <img src="https://kikachangames.github.io/kikachangames/hg2.png">
