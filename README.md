@@ -1,5 +1,5 @@
 <h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
-<h2>Patch Pt-Br (Onscripter)</h2>
+<h2>Patch Pt-Br (ONscripter-EN)</h2>
 
 <p>Bem-vindo!<p/>
 
