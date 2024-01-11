@@ -3,11 +3,11 @@
 
 <p>Bem-vindo!<p/>
 
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel [https://vndb.org/v7576)] Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, da 07th Expansion.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v7576" target="_blank"> Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, da 07th Expansion.</p>
 
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
-    <li>Mesomeso-san - 90%</li>
+    <li>Mesomeso-san - 95%</li>
     <li>The Spirit Camera - 0%</li>
     <li>The Princess' Lie - 0%</li>
     <li>Shrine of the Guardian Deity - 0%</li>
@@ -26,7 +26,9 @@
 
 <h3>Agradecimentos:</h3>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
-<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
+<p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
+<br/>
 <br/>
 
+<p>Última atualização: 11/01/2024.</p>
 <p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></p>
