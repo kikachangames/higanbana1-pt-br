@@ -3,9 +3,9 @@
 
 <p>Bem-vindo!<p/>
 
-<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://07th-expansion.net/higan_gen" target="_blank">Higanbana no Saku Yoru ni - A Primeira Noite</a>, da 07th Expansion.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel [https://vndb.org/v7576)] Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, da 07th Expansion.</p>
 
-<h3>Progresso da tradução - A Primeira Noite</h3>
+<h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
     <li>Mesomeso-san - 90%</li>
     <li>The Spirit Camera - 0%</li>
@@ -19,10 +19,14 @@
 <h3>Previsão de lançamento:</h3>
 <p>Maio de 2024.</p>
 
+<h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/kikachangames/hg1.png">
 <img src="https://kikachangames.github.io/kikachangames/hg2.png">
 <img src="https://kikachangames.github.io/kikachangames/hg3.png">
 
+<h3>Agradecimentos:</h3>
+<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
+<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
 <br/>
 
 <p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></p>
