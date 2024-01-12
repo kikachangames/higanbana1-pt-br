@@ -7,7 +7,7 @@
 <br/>
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
-    <li>Mesomeso-san - 95%</li>
+    <li>Mesomeso-san - 100%</li>
     <li>The Spirit Camera - 0%</li>
     <li>The Princess' Lie - 0%</li>
     <li>Shrine of the Guardian Deity - 0%</li>
@@ -30,5 +30,5 @@
 <br/>
 <br/>
 <br/>
-<p>Última atualização: 11/01/2024.</p>
-<p>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></p>
+<p><small>Última atualização: 12/01/2024.</small></p>
+<p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
