@@ -8,7 +8,7 @@
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
     <li>Mesomeso-san - 100%</li>
-    <li>The Spirit Camera - 0%</li>
+    <li>The Spirit Camera - 10%</li>
     <li>The Princess' Lie - 0%</li>
     <li>Shrine of the Guardian Deity - 0%</li>
     <li>Hameln's Castanets - 0%</li>
