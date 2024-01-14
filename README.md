@@ -1,6 +1,6 @@
 <h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
 <h2>Patch Pt-Br (ONscripter-EN)</h2>
-<br/>
+<img src="https://kikachangames.github.io/kikachangames/higanbana.jpg">
 <p>Bem-vindo!<p/>
 
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v7576" target="_blank"> Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, da 07th Expansion.</p>
