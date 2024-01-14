@@ -6,12 +6,13 @@
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v7576" target="_blank"> Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, da 07th Expansion.</p>
 
 <h3>Sinopse</h3>
-<p>Marie está presa em uma situação horrível.  Ela está sendo constantemente atormentada por seus colegas de classe e regularmente molestada por seu professor.  Sem ter a quem recorrer, ela se vê pedindo ajuda sobrenatural a um dos sete demônios dos sete mistérios de sua escola.  Tudo o que ela deseja é a morte de seus cruéis colegas e professor.  Até onde Marie estará disposta a ir para realizar os assassinatos que a libertariam de seu inferno?</p>
+<p>Marie está presa em uma situação horrível. Ela está sendo constantemente atormentada por seus colegas de classe e regularmente molestada por seu professor. Sem ter a quem recorrer, ela se vê pedindo ajuda sobrenatural a um dos sete demônios dos Sete Mistérios de sua escola. Tudo o que ela deseja é a morte de seus cruéis colegas e professor. Até onde Marie estará disposta a ir para se libertar de seu inferno?</p>
+<br/>
 
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
     <li>Mesomeso-san - 100%</li>
-    <li>The Spirit Camera - 10%</li>
+    <li>The Spirit Camera - 25%</li>
     <li>The Princess' Lie - 0%</li>
     <li>Shrine of the Guardian Deity - 0%</li>
     <li>Hameln's Castanets - 0%</li>
