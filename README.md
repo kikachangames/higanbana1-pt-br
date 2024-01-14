@@ -1,5 +1,6 @@
 <h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
 <p>Patch Pt-Br (ONscripter-EN)</p>
+<br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana.jpg">
 <br/>
 <p>Bem-vindo!<p/>
