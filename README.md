@@ -15,11 +15,11 @@
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
     <li>Mesomeso-san - 100%</li>
-    <li>The Spirit Camera - 40%</li>
-    <li>The Princess' Lie - 0%</li>
-    <li>Shrine of the Guardian Deity - 0%</li>
-    <li>Hameln's Castanets - 0%</li>
-    <li>One Girl's Day - 0%</li>
+    <li>A Câmera Espiritual - 40%</li>
+    <li>A Mentira da Princesa - 0%</li>
+    <li>Santuário da Divindade Guardiã - 0%</li>
+    <li>Castanholas de Hameln - 0%</li>
+    <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
 </ul>
 <br/>
