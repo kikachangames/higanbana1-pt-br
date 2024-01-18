@@ -15,7 +15,7 @@
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <ul>
     <li>Mesomeso-san - 100%</li>
-    <li>A Câmera Espiritual - 45%</li>
+    <li>A Câmera Espiritual - 50%</li>
     <li>A Mentira da Princesa - 0%</li>
     <li>Santuário da Divindade Guardiã - 0%</li>
     <li>Castanholas de Hameln - 0%</li>
@@ -37,5 +37,5 @@
 <br/>
 <br/>
 <br/>
-<p><small>Última atualização: 17/01/2024.</small></p>
+<p><small>Última atualização: 18/01/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
