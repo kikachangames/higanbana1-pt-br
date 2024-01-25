@@ -16,7 +16,7 @@
 <ul>
     <li>Mesomeso-san - 100%</li>
     <li>A Câmera Espiritual - 100%</li>
-    <li>A Mentira da Princesa - 0%</li>
+    <li>A Mentira da Princesa - 20%</li>
     <li>Santuário da Divindade Guardiã - 0%</li>
     <li>Castanholas de Hameln - 0%</li>
     <li>Um dia de menina - 0%</li>
