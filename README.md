@@ -28,6 +28,7 @@
 <br/>
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
+<p>Menu principal</p>
 <br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana1.png">
 <p>Mesomeso-san</p>
