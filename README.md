@@ -1,7 +1,7 @@
 <h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
 <p>Patch Pt-Br (ONscripter-EN)</p>
 <br/>
-<img src="https://kikachangames.github.io/kikachangames/higanbana.jpg">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana.jpg">
 <br/>
 <br/>
 <p>Bem-vindo!<p/>
@@ -27,19 +27,19 @@
 <p>Maio de 2024.</p>
 <br/>
 <h3>Imagens:</h3>
-<img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana0.png">
 <p>Menu principal</p>
 <br/>
-<img src="https://kikachangames.github.io/kikachangames/higanbana1.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana1.png">
 <p>Mesomeso-san</p>
 <br/>
-<img src="https://kikachangames.github.io/kikachangames/higanbana2.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana2.png">
 <p>A câmera espiritual</p>
 <br/>
-<img src="https://kikachangames.github.io/kikachangames/higanbana3.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana3.png">
 <p>O sonho da Princesa</p>
 <br/>
-<img src="https://kikachangames.github.io/kikachangames/higanbana4.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana4.png">
 <p>O santuário da Divindade Guardiã</p>
 <br/>
 <br/>
