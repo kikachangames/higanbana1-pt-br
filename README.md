@@ -29,7 +29,7 @@
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
 <img src="https://kikachangames.github.io/kikachangames/higanbana1.png">
-<center><p>Mesomeso-san</p></center>
+<p><center>Mesomeso-san</center></p>
 <img src="https://kikachangames.github.io/kikachangames/higanbana2.png">
 <center><p>A câmera espiritual</p></center>
 <img src="https://kikachangames.github.io/kikachangames/higanbana3.png">
