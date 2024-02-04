@@ -28,14 +28,19 @@
 <br/>
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
+<br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana1.png">
 <p>Mesomeso-san</p>
+<br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana2.png">
 <p>A câmera espiritual</p>
+<br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana3.png">
 <p>O sonho da Princesa</p>
+<br/>
 <img src="https://kikachangames.github.io/kikachangames/higanbana4.png">
 <p>O santuário da Divindade Guardiã</p>
+<br/>
 <br/>
 <h3>Agradecimentos:</h3>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
