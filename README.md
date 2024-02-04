@@ -28,8 +28,10 @@
 <br/>
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
-<img src="https://kikachangames.github.io/kikachangames/hg2.png">
-<img src="https://kikachangames.github.io/kikachangames/hg3.png">
+<img src="https://kikachangames.github.io/kikachangames/higanbana1.png">
+<img src="https://kikachangames.github.io/kikachangames/higanbana2.png">
+<img src="https://kikachangames.github.io/kikachangames/higanbana3.png">
+<img src="https://kikachangames.github.io/kikachangames/higanbana4.png">
 <br/>
 <h3>Agradecimentos:</h3>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
