@@ -27,7 +27,7 @@
 <p>Maio de 2024.</p>
 <br/>
 <h3>Imagens:</h3>
-<img src="https://kikachangames.github.io/kikachangames/hg0.png">
+<img src="https://kikachangames.github.io/kikachangames/higanbana0.png">
 <img src="https://kikachangames.github.io/kikachangames/hg2.png">
 <img src="https://kikachangames.github.io/kikachangames/hg3.png">
 <br/>
