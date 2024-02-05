@@ -4,7 +4,7 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana.jpg">
 <br/>
 <br/>
-<h3>Bem-vinde!<h3/>
+<h3>Bem-vinde!</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v7576" target="_blank"> Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, lançada pela 07th Expansion em 2011.</p>
 <br/>
 <h3>Sinopse</h3>
