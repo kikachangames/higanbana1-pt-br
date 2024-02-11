@@ -39,7 +39,7 @@
 <p>O sonho da Princesa</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana4.png">
-<p>O santuário da Divindade Guardiã</p>
+<p>Santuário do Espírito Guardião</p>
 <br/>
 <br/>
 <h3>Agradecimentos:</h3>
