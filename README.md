@@ -16,7 +16,7 @@
     <li>Mesomeso-san - 100%</li>
     <li>A Câmera Espiritual - 100%</li>
     <li>A Mentira da Princesa - 100%</li>
-    <li>Santuário da Divindade Guardiã - 50%</li>
+    <li>Santuário da Divindade Guardiã - 100%</li>
     <li>Castanholas de Hameln - 0%</li>
     <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
@@ -48,5 +48,5 @@
 <br/>
 <br/>
 <br/>
-<p><small>Última atualização: 04/02/2024.</small></p>
+<p><small>Última atualização: 11/02/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
