@@ -47,6 +47,7 @@
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
 <br/>
 <br/>
+{% include disqus.html %}
 <br/>
 <p><small>Última atualização: 11/02/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
