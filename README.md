@@ -48,5 +48,6 @@
 <br/>
 <br/>
 <br/>
+{% include disqus.html %}
 <p><small>Última atualização: 11/02/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
