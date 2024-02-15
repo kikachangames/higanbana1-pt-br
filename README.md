@@ -47,10 +47,9 @@
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
 <br/>
 <br/>
-<br/>
 <h3>Outros projetos em andamento (maiores informações em breve):</h3>
-<p><a href="https://vndb.org/v36" target="_blank">AIR</a>(Standard Edition): 10%.</p>
-<p><a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a>(Steam):0%.</p>
+<p><a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 10%.</p>
+<p><a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a> (Steam): 0%.</p>
 <br/>
 <br/>
 <br/>
