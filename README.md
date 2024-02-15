@@ -48,5 +48,11 @@
 <br/>
 <br/>
 <br/>
+<h3>Outros projetos em andamento (maiores informações em breve):</h3>
+<p><a href="https://vndb.org/v36" target="_blank">AIR (Standard Edition)</a>: 10%.</p>
+<p><a href="[https://www.spiderlilytranslations.com](https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/?curator_clanid=34658240&curator_listid=45152)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi (Steam)</a>:0%.</p>
+<br/>
+<br/>
+<br/>
 <p><small>Última atualização: 11/02/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
