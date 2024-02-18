@@ -20,7 +20,7 @@
     <li>A Câmera Espiritual - 100%</li>
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
-    <li>Castanholas de Hamelin - 30%</li>
+    <li>Castanholas de Hameln - 30%</li>
     <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
 </ul>
