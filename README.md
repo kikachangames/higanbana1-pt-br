@@ -20,14 +20,14 @@
     <li>A Câmera Espiritual - 100%</li>
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
-    <li>Castanholas de Hameln - 30%</li>
+    <li>Castanholas de Hameln - 70%</li>
     <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
 </ul>
 <br/>
 <h3>Previsão de lançamento:</h3>
 <br/>
-<p>Maio de 2024.</p>
+<p>01 de maio de 2024.</p>
 <br/>
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana0.png">
@@ -64,5 +64,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 18/02/2024.</small></p>
+<p><small>Última atualização: 28/02/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
