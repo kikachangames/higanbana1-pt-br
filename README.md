@@ -20,7 +20,7 @@
     <li>A Câmera Espiritual - 100%</li>
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
-    <li>Castanholas de Hameln - 70%</li>
+    <li>Castanholas de Hameln - 80%</li>
     <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
 </ul>
@@ -64,5 +64,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 28/02/2024.</small></p>
+<p><small>Última atualização: 04/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
