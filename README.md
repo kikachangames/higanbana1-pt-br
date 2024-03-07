@@ -20,7 +20,7 @@
     <li>A Câmera Espiritual - 100%</li>
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
-    <li>Castanholas de Hameln - 90%</li>
+    <li>Castanholas de Hameln - 100%</li>
     <li>Um dia de menina - 0%</li>
     <li>Utopia - 0%</li>
 </ul>
@@ -45,6 +45,9 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana4.png">
 <p>Santuário do Espírito Guardião</p>
 <br/>
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana5.png">
+<p>Castanholas de Hameln</p>
+<br/>
 <br/>
 <h3>Agradecimentos:</h3>
 <br/>
@@ -64,5 +67,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 05/03/2024.</small></p>
+<p><small>Última atualização: 06/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
