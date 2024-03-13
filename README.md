@@ -21,7 +21,7 @@
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
     <li>Castanholas de Hameln - 100%</li>
-    <li>Um dia de menina - 0%</li>
+    <li>Um dia de menina - 50%</li>
     <li>Utopia - 0%</li>
 </ul>
 <br/>
@@ -59,7 +59,7 @@
 <div id="projects">
 <h3>Outros projetos em andamento (maiores informações em breve):</h3>
 <br/>
-<p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 20%.</p>
+<p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 25%.</p>
 <p>- <a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a> (Steam): 0%.</p>
 </div>    
 <br/>
@@ -67,5 +67,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 06/03/2024.</small></p>
+<p><small>Última atualização: 13/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
