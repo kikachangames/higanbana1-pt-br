@@ -21,7 +21,7 @@
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
     <li>Castanholas de Hameln - 100%</li>
-    <li>Um dia de menina - 50%</li>
+    <li>Um dia de menina - 60%</li>
     <li>Utopia - 0%</li>
 </ul>
 <br/>
@@ -67,5 +67,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 13/03/2024.</small></p>
+<p><small>Última atualização: 14/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
