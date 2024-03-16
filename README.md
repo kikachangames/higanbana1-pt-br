@@ -21,8 +21,8 @@
     <li>A Mentira da Princesa - 100%</li>
     <li>Santuário do Espírito Guardião - 100%</li>
     <li>Castanholas de Hameln - 100%</li>
-    <li>Um dia de menina - 60%</li>
-    <li>Utopia - 0%</li>
+    <li>Um dia de menina - 100%</li>
+    <li>Utopia - 20%</li>
 </ul>
 <br/>
 <h3>Previsão de lançamento:</h3>
@@ -48,6 +48,9 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana5.png">
 <p>Castanholas de Hameln</p>
 <br/>
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana6.png">
+<p>Um dia de menina</p>
+<br/>
 <br/>
 <h3>Agradecimentos:</h3>
 <br/>
@@ -67,5 +70,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 14/03/2024.</small></p>
+<p><small>Última atualização: 16/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
