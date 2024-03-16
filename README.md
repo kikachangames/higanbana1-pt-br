@@ -16,13 +16,13 @@
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
 <br/>
 <ul>
-    <li>Mesomeso-san - 100%</li>
-    <li>A Câmera Espiritual - 100%</li>
-    <li>A Mentira da Princesa - 100%</li>
-    <li>Santuário do Espírito Guardião - 100%</li>
-    <li>Castanholas de Hameln - 100%</li>
-    <li>Um dia de menina - 100%</li>
-    <li>Utopia - 20%</li>
+    <li>Capítulo 1: Mesomeso-san - 100%</li>
+    <li>Capítulo 2: A Câmera Espiritual - 100%</li>
+    <li>Capítulo 3: A Mentira da Princesa - 100%</li>
+    <li>Capítulo 4: Santuário do Espírito Guardião - 100%</li>
+    <li>Capítulo 5: Castanholas de Hameln - 100%</li>
+    <li>Capítulo 6: Um dia de menina - 100%</li>
+    <li>Capítulo 7: Utopia - 20%</li>
 </ul>
 <br/>
 <h3>Previsão de lançamento:</h3>
@@ -34,22 +34,22 @@
 <p>Menu principal</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana1.png">
-<p>Mesomeso-san</p>
+<p>Capítulo 1: Mesomeso-san</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana2.png">
-<p>A câmera espiritual</p>
+<p>Capítulo 2: A câmera espiritual</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana3.png">
-<p>O sonho da Princesa</p>
+<p>Capítulo 3: O sonho da Princesa</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana4.png">
-<p>Santuário do Espírito Guardião</p>
+<p>Capítulo 4: Santuário do Espírito Guardião</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana5.png">
-<p>Castanholas de Hameln</p>
+<p>Capítulo 5: Castanholas de Hameln</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana6.png">
-<p>Um dia de menina</p>
+<p>Capítulo 6: Um dia de menina</p>
 <br/>
 <br/>
 <h3>Agradecimentos:</h3>
