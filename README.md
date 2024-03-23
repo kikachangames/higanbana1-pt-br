@@ -51,6 +51,9 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana6.png">
 <p>Capítulo 6: Um dia de menina</p>
 <br/>
+<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana7.png">
+<p>Capítulo 7: Utopia</p>
+<br/>
 <br/>
 <h3>Agradecimentos:</h3>
 <br/>
