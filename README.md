@@ -22,7 +22,7 @@
     <li>Capítulo 4: Santuário do Espírito Guardião - 100%</li>
     <li>Capítulo 5: Castanholas de Hameln - 100%</li>
     <li>Capítulo 6: Um dia de menina - 100%</li>
-    <li>Capítulo 7: Utopia - 20%</li>
+    <li>Capítulo 7: Utopia - 50%</li>
 </ul>
 <br/>
 <h3>Previsão de lançamento:</h3>
@@ -70,5 +70,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 16/03/2024.</small></p>
+<p><small>Última atualização: 23/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a></small></p>
