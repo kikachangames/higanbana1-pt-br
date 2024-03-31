@@ -22,7 +22,7 @@
     <li>Capítulo 4: Santuário do Espírito Guardião - 100%</li>
     <li>Capítulo 5: Castanholas de Hameln - 100%</li>
     <li>Capítulo 6: Um dia de menina - 100%</li>
-    <li>Capítulo 7: Utopia - 50%</li>
+    <li>Capítulo 7: Utopia - 60%</li>
 </ul>
 <br/>
 <h3>Previsão de lançamento:</h3>
@@ -65,8 +65,8 @@
 <div id="projects">
 <h3>Outros projetos em andamento (maiores informações em breve):</h3>
 <br/>
-<p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 25%.</p>
-<p>- <a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a> (Steam): 0%.</p>
+<p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
+<p>- <a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a> (Steam): 2%.</p>
 </div>    
 <br/>
 <br/>
