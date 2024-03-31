@@ -73,5 +73,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 23/03/2024.</small></p>
+<p><small>Última atualização: 30/03/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a></small></p>
