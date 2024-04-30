@@ -40,7 +40,7 @@
 <p>Capítulo 2: A câmera espiritual</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana3.png">
-<p>Capítulo 3: O sonho da Princesa</p>
+<p>Capítulo 3: A Mentira da Princesa</p>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana4.png">
 <p>Capítulo 4: Santuário do Espírito Guardião</p>
@@ -61,6 +61,11 @@
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
 <br/>
 <br/>
+<h3>Download do patch:</h3>
+<br/>
+<p> Em breve aqui!</p>
+<br/>
+<br/>
 <hr>
 <div id="projects">
 <h3>Outros projetos em andamento (maiores informações em breve):</h3>
@@ -73,5 +78,5 @@
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 06/04/2024.</small></p>
+<p><small>Última atualização: 30/04/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
