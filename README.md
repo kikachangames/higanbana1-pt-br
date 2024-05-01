@@ -59,7 +59,7 @@
 <br/>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
-<br/><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p> 
+<p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a>.</p> 
 <br/>
 <h3>Download do patch:</h3>
 <br/>
