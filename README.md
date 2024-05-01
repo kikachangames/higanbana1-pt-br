@@ -25,10 +25,15 @@
     <li>Capítulo 7: Utopia - 100%</li>
 </ul>
 <br/>
-<h3>Previsão de lançamento:</h3>
-<br/>
+<h3>Lançamento:</h3>
 <p>01 de maio de 2024.</p>
 <br/>
+<h3>Download:</h3>
+<br/>
+<p> Atenção: Certifique-se de ter uma cópia do jogo para aplicar o patch. Instruções para instalação estão no arquivo LEIAME, incluído no patch: <a href="https://drive.google.com/file/d/1I7iPXSWaAgrjBqQIun4e4dLmrL28G1oT/view?usp=sharing" target="_blank">Clique aqui</a> para fazer o download.</p>
+<br/>
+<br/>
+
 <h3>Imagens:</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana0.png">
 <p>Menu principal</p>
@@ -60,11 +65,6 @@
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a>.</p> 
-<br/>
-<h3>Download do patch:</h3>
-<br/>
-<p> Atenção: Certifique-se de ter uma cópia do jogo para aplicar o patch. Instruções para instalação estão no arquivo LEIAME, incluído no patch: <a href="https://drive.google.com/file/d/1I7iPXSWaAgrjBqQIun4e4dLmrL28G1oT/view?usp=sharing" target="_blank">Clique aqui</a> para fazer o download.</p>
-<br/>
 <br/>
 <hr>
 <div id="projects">
