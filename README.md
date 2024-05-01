@@ -4,17 +4,17 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana.jpg">
 <br/>
 <br/>
+
 <h3>As flores implacáveis desabrocham na calada da noite</h3>
-<br/>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v7576" target="_blank"> Higanbana no Saku Yoru ni - Dai Ichi Ya</a>, lançada pela 07th Expansion em 2011.</p>
 <br/>
+
 <h3>Sinopse</h3>
-<br/>
 <p>Marie está presa em uma situação horrível. Ela está sendo constantemente atormentada por seus colegas de classe e regularmente molestada por seu professor. Sem ter a quem recorrer, ela se vê pedindo ajuda sobrenatural a um dos demônios dos Sete Mistérios de sua escola. Tudo o que ela deseja é a morte de seus cruéis colegas e professor. Até onde Marie estará disposta a ir para se libertar de seu inferno?</p>
 <br/>
 
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Primeira Noite</h3>
-<br/>
+
 <ul>
     <li>Capítulo 1: Mesomeso-san - 100%</li>
     <li>Capítulo 2: A Câmera Espiritual - 100%</li>
