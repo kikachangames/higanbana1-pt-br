@@ -55,15 +55,14 @@
 <p>Capítulo 7: Utopia</p>
 <br/>
 <br/>
+
 <h3>Agradecimentos:</h3>
-<br/>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a>.</p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a>.</p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a>.</p> 
 <br/>
 
 <h3>Download:</h3>
-
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 <a href="https://drive.google.com/file/d/1I7iPXSWaAgrjBqQIun4e4dLmrL28G1oT/view?usp=sharing" target="_blank">Clique aqui</a> para fazer o download.</p>
 <br/>
