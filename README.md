@@ -59,7 +59,8 @@
 <h3>Agradecimentos:</h3>
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a></p>
-<p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p> 
+<p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p>
+<p><a href="https://vnx.uvnworks.com/" target="_blank">Converting Minds: VNX+</a></p>
 <br/>
 
 <h3>Download:</h3>
