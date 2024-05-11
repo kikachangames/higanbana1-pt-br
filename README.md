@@ -71,15 +71,16 @@
 
 <hr>
 <div id="projects">
-<h3>Outros projetos em andamento (maiores informações em breve):</h3>
+<h3>Outros projetos em andamento:</h3>
 <br/>
+    
 <p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
-<p>- <a href="https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/)" target="_blank">Higurashi When They Cry Hou - Ch.7 Minagoroshi</a> (Steam): 2%.</p>
+
 </div>    
 <br/>
 <br/>
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 01/05/2024.</small></p>
+<p><small>Última atualização: 11/05/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
