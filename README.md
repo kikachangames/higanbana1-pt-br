@@ -73,12 +73,11 @@
 <div id="projects">
 <h3>Outros projetos em andamento:</h3>
 <br/>
-    
+<img src="https://kikachangames.github.io/higanbana1-pt-br/air_banner.jpeg">    
 <p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
 
 </div>    
-<br/>
-<br/>
+
 <br/>
 <br/>
 <hr>
