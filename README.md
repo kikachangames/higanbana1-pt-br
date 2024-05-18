@@ -76,7 +76,7 @@
 <img src="https://kikachangames.github.io/higanbana1-pt-br/air_banner.jpeg">    
 <p>- <a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/sayooshi1.png">    
-<p>- [https://vndb.org/v36](https://vndb.org/v1200) Sayonara o Oshiete ~Comment te Dire Adieu: 1%.</p>
+<p>- <a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete ~Comment te Dire Adieu</a>: 1%.</p>
 
 </div>    
 
