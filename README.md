@@ -61,6 +61,9 @@
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a></p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p>
 <p><a href="https://vnx.uvnworks.com/" target="_blank">Converting Minds: VNX+</a></p>
+<p><a href="https://github.com/0Mateus" target="_blank">0Mateus (Revisão)</a></p>
+<p><a href="https://www.youtube.com/@Palpitando_123" target="_blank">Canal Palpitando</a></p>
+
 <br/>
 
 <h3>Downloads:</h3>
@@ -85,5 +88,5 @@ Escolha a versão desejada e clique no botão abaixo para fazer o download.</p>
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 18/05/2024.</small></p>
+<p><small>Última atualização: 01/06/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
