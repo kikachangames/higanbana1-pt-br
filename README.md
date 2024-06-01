@@ -67,7 +67,7 @@
 
 <br/>
 
-<h3>Downloads:</h3>
+<h3>Download:</h3>
 
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
