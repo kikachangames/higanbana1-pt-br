@@ -63,7 +63,7 @@
 <p><a href="https://vnx.uvnworks.com/" target="_blank">Converting Minds: VNX+</a></p>
 <br/>
 
-<h3>Download:</h3>
+<h3>Downloads:</h3>
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Escolha a versão desejada e clique no botão abaixo para fazer o download.</p>
 <a href="https://drive.google.com/file/d/1rHqmhfK99AF2qetRmuMTourszM_5n4F0/view?usp=sharing"><img src="https://kikachangames.github.io/higanbana1-pt-br/download_bt1.png"></a>
