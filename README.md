@@ -81,9 +81,9 @@ Clique no botão abaixo para fazer o download.</p>
 <h3>Outros projetos em andamento:</h3>
 <br/>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">    
-<p><a href="https://vndb.org/v36" target="_blank">AIR</a> (Standard Edition): 30%.</p>
+<p><a href="https://kikachangames.github.io/air/">AIR (Standard Edition)</a></p>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">    
-<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete ~Comment te Dire Adieu</a>: 1%.</p>
+<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete</a></p>
 
 </div>    
 
