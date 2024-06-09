@@ -84,7 +84,8 @@ Clique no botão abaixo para fazer o download.</p>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
 <br/>    
 AIR (Standard Edition)</a>
-
+<br/>
+    
 <a href="https://vndb.org/v1200" target="_blank">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
 <br/>
