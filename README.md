@@ -80,15 +80,20 @@ Clique no botão abaixo para fazer o download.</p>
 <div id="projects">
 <h3>Outros projetos em andamento:</h3>
 <br/>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">    
-<p><a href="https://kikachangames.github.io/air/">AIR (Standard Edition)</a></p>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">    
-<p><a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete</a></p>
+<a href="https://kikachangames.github.io/air/">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
+<br/>    
+AIR (Standard Edition)</a>
+
+<a href="https://vndb.org/v1200" target="_blank">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
+<br/>
+Sayonara o Oshiete</a>
 
 </div>    
 
 <br/>
 <br/>
 <hr>
-<p><small>Última atualização: 01/06/2024.</small></p>
+<p><small>Última atualização: 09/06/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
