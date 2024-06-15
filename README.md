@@ -56,15 +56,28 @@
 <br/>
 <br/>
 
+<h3>Membros do projeto</h3>
+
+<h3>Manolo-chan</h3>
+<img src="https://kikachangames.github.io/air/manolo.png">
+<p><b>Líder de projeto, tradução e programação</b></p>
+<p>Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
+<br/>
+
+<h3>Manolo-chan</h3>
+<img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
+<p><b>Revisão</b></p>
+<p>Olá pessoal! Gosto muito de visual novels e mangás e sou fissurado em Higurashi e Umineko. Curto muito as obras da 07th Expansion e quero sempre ajudar no que puder.</p>
+<br/>
+
+
 <h3>Agradecimentos:</h3>
 <p>Kyougaru e Marshmelio (Android port)</p>
-<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a></p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p>
 <p><a href="https://vnx.uvnworks.com/" target="_blank">Converting Minds: VNX+</a></p>
-<p><a href="https://github.com/0Mateus" target="_blank">0Mateus (Revisão)</a></p>
 <p><a href="https://www.youtube.com/@Palpitando_123" target="_blank">Canal Palpitando</a></p>
-
+<p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
 <br/>
 
 <h3>Download:</h3>
