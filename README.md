@@ -60,7 +60,7 @@
 
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projeto, tradução e programação</b></p>
+<p><b>Líder de projeto, tradução, programação e edição de imagens</b></p>
 <p>Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
 <br/>
 
