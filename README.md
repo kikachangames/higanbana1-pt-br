@@ -25,11 +25,11 @@
     <li>Capítulo 7: Utopia - 100%</li>
 </ul>
 <br/>
-<h3>Lançamento:</h3>
+<h3>Lançamento</h3>
 <p>01 de maio de 2024.</p>
 <br/>
 
-<h3>Imagens:</h3>
+<h3>Imagens</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana0.png">
 <p>Menu principal</p>
 <br/>
@@ -71,7 +71,7 @@
 <br/>
 
 
-<h3>Agradecimentos:</h3>
+<h3>Agradecimentos</h3>
 <p>Kyougaru e Marshmelio (Android port)</p>
 <p><a href="https://www.spiderlilytranslations.com" target="_blank">Spider Lily Translations</a></p>
 <p><a href="https://github.com/Galladite27/ONScripter-EN" target="_blank">Galladite27</a></p>
@@ -80,7 +80,7 @@
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
 <br/>
 
-<h3>Download:</h3>
+<h3>Download</h3>
 
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
@@ -91,7 +91,7 @@ Clique no botão abaixo para fazer o download.</p>
 
 <hr>
 <div id="projects">
-<h3>Outros projetos em andamento:</h3>
+<h3>Outros projetos</h3>
 <br/>
 <a href="https://kikachangames.github.io/air/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
