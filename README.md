@@ -72,7 +72,7 @@
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
 
-<a href="https://drive.google.com/file/d/1DiKyvg-KgOMKvKHS_Ffzh5VglCWAfwdZ/view?usp=sharing" target="_blank"><img src="https://kikachangames.github.io/higanbana1-pt-br/bt_download.png"></a>
+<a href="https://drive.google.com/file/d/19wIp1XCu-cauWXWme2IQJrVUKxRT-0Eo/view?usp=sharing" target="_blank"><img src="https://kikachangames.github.io/higanbana1-pt-br/bt_download.png"></a>
 <br/>
 <br/>
 
