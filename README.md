@@ -86,12 +86,12 @@
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar o patch.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
 
-<a href="https://drive.google.com/file/d/1_KbUia1lO8cXddga9Ic7kLE4AILn4BlZ/view?usp=sharing" target="_blank"><img src="https://kikachangames.github.io/higanbana1-pt-br/bt_download.png"></a>
+<a href="https://github.com/kikachangames/higanbana1-pt-br/releases/latest/download/Higanbana1-PT-BR.zip" target="_blank"><img src="https://kikachangames.github.io/higanbana1-pt-br/bt_download.png"></a>
 <br/>
 <br/>
 
 
 <hr>
-<p><small>Última atualização: 16/06/2024.</small></p>
-<p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
+<p><small>Última atualização: 08/01/2025.</small></p>
+<p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
